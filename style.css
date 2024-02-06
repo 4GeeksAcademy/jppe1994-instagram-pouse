@@ -1,0 +1,74 @@
+
+
+body {
+    text-align: center;
+    background-color: black;
+    display: flex;
+    
+    align-items: center;
+}
+.post{
+    background: white;
+    width: 500px;
+    height: 700px;
+    margin: auto;
+
+}
+
+.icono img{ 
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+    
+    margin-top: 20px;
+}
+.tituloFoto h2{
+    width: min-content;
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 10px;
+   
+}
+.post-img img{
+    max-width: 100%;
+    display: flex;
+    margin: auto;
+}
+
+
+.post-header{
+    display: flex;
+    flex-direction: row;
+}
+.post-header i{
+    font-size: 30px;
+}
+#icoMenu{
+    margin-left: 320px;
+    margin-top: 20px;
+    font-size: 50px;
+}
+#icoHtml{
+    margin-left: 20px;
+    margin-right: 10px;
+    margin-top: 20px;
+    font-size: 50px;
+}
+.post-icono{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+}
+p{
+    max-width: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+   text-align: start;
+    
+}
+#guardado{
+    margin-left: 360px;
+    font-size: 30px;
+}
+
