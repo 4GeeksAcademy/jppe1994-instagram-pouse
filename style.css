@@ -70,11 +70,14 @@ p{
     margin-left: 10px;
     margin-right: 10px;
    text-align: start;
-   font-family: font-family: 'Roboto', sans-serif;
+   font-family:'Roboto', sans-serif;
     
 }
 #guardado{
     margin-left: 340px;
     font-size: 30px;
+}
+h2{
+    font-family:'Roboto', sans-serif;
 }
 
