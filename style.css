@@ -18,9 +18,8 @@ body {
 .icono img{ 
     width: 50px;
     height: 50px;
-    margin-bottom: 10px;
-    
-    margin-top: 20px;
+    padding: 20px;
+
 }
 .tituloFoto h2{
     width: min-content;
@@ -55,20 +54,27 @@ body {
     font-size: 50px;
 }
 .post-icono{
-    margin-top: 10px;
     display: flex;
     flex-direction: row;
     font-size: 30px;
+    padding: 10px;
+}
+#heart{
+    margin-right: 10px;
+}
+#comment{
+    margin-right: 10px;
 }
 p{
     max-width: 100%;
     margin-left: 10px;
     margin-right: 10px;
    text-align: start;
+   font-family: font-family: 'Roboto', sans-serif;
     
 }
 #guardado{
-    margin-left: 360px;
+    margin-left: 340px;
     font-size: 30px;
 }
 
